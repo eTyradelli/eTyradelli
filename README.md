@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eTyradelli.
 - 👀 I’m a Junior Front-End Developer. I have experience in HTML, CSS and WordPress.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking for a Junior Front-End Developer job or traineeship.
 - 📫 Feel free to contact me through my Linkedin profile.
