@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @eTyradelli.
 - 👀 I’m a Junior Front-End Developer. I have experience in HTML, CSS and WordPress.
 - 🌱 I’m currently learning Javascript.
-- 📫 Feel free to contact me through my Linkedin profile.
