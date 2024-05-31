@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @eTyradelli.
-- 👀 I’m a Junior Front-End Developer. I have experience in HTML, CSS and WordPress.
-- 🌱 I’m currently learning Javascript.
+- Hi, I’m Eleana.
+- I’m a Front-End Developer. I have experience in HTML, CSS and WordPress.
+- I’m currently learning Javascript.
