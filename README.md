@@ -1,3 +1,3 @@
 - Hi, I’m Eleana.
-- I’m a Front-End Developer. I have experience in HTML, CSS and WordPress.
-- I’m currently learning Javascript.
+- I’m a Front-End Developer. I have experience in HTML, CSS, JavaScript and WordPress.
+- I’m currently learning PHP.
